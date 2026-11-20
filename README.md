@@ -33,26 +33,6 @@ const suman = {
   <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nodejs,express,python,django,postgres,mysql,mongodb,prisma,git,github,vscode,figma&theme=dark&perline=8" />
 </p>
 
-## 🚀 Projects
-
-| Project | What it does | Tech |
-|---|---|---|
-| **Asteroid Archive** | Resource archive platform with filtering, auth and roles | React, TypeScript, Express, PostgreSQL |
-| **Expense Management** | Expense tracking with employee/manager workflows | React, Node.js, PostgreSQL, Knex |
-| **RA Banquet Website** | CMS-driven venue website with enquiry form | React, Tailwind, GraphQL |
-| **Bike Fram** | Bike rental and booking e-commerce platform | Web, E-commerce, Booking |
-
-## 📊 Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Suman2060&show_icons=true&bg_color=0D1117&title_color=FF6A00&icon_color=FF6A00&text_color=C9D1D9&border_color=30363D&count_private=true" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=Suman2060&background=0D1117&border=30363D&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B949E" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suman2060&bg_color=0D1117&color=FF6A00&line=FF6A00&point=FFFFFF&area=true&area_color=FF6A00&hide_border=true" />
-</p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
