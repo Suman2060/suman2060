@@ -71,7 +71,7 @@ const suman = {
 ## Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Suman2060/Suman2060/output/mtb-bike.svg" width="100%" alt="Mountain bike riding over my contribution graph" />
+  <img src="https://raw.githubusercontent.com/Suman2060/Suman2060/output/github-snake-dark.svg" alt="Contribution snake animation" />
 </p>
 
 ## Journey
