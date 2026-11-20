@@ -1,5 +1,4 @@
-# Git-Profile
-# Save this file in your profile repo at: .github/workflows/snake.yml
+
 name: Generate Snake Animation
 
 on:
