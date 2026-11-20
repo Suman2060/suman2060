@@ -1,22 +1,22 @@
-<!-- Header: carbon black fading into burnt orange -->
+<!-- Header: animated cartoon mountain valley (needs header.svg in the repo root) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF6A00&height=240&section=header&text=SUMAN%20DANGOL&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://raw.githubusercontent.com/Suman2060/Suman2060/main/header.svg" width="100%" alt="Suman Dangol - Full Stack Developer" />
 </p>
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF6A00&center=true&vCenter=true&width=700&height=45&lines=React+%7C+Node.js+%7C+TypeScript;I+build+web+apps+from+frontend+to+backend;Learn.+Build.+Ship.+Repeat." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=29B6F6&center=true&vCenter=true&width=700&height=45&lines=Namaste+%F0%9F%99%8F+I'm+Suman+from+Nepal;React+%7C+Node.js+%7C+TypeScript;Building+web+apps%2C+one+peak+at+a+time+%F0%9F%8F%94%EF%B8%8F;Learn.+Build.+Ship.+Repeat." alt="typing" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kathmandu-Nepal-FF6A00?style=for-the-badge&labelColor=0D1117&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20to-Junior%20Roles-FF6A00?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://komarev.com/ghpvc/?username=Suman2060&label=Views&color=FF6A00&labelColor=0D1117&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kathmandu-Nepal-29B6F6?style=for-the-badge&labelColor=1F5F8B&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Junior%20Roles-8BC34A?style=for-the-badge&labelColor=1F5F8B" />
+  <img src="https://komarev.com/ghpvc/?username=Suman2060&label=Views&color=29B6F6&labelColor=1F5F8B&style=for-the-badge" />
 </p>
 
 ---
 
-## ⚡ About
+## 🏔️ About
 
 ```js
 const suman = {
@@ -42,11 +42,11 @@ const suman = {
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/suman-dangol-9310b6306/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF6A00" /></a>
-  <a href="https://sumandongol.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FF6A00" /></a>
+  <a href="https://www.linkedin.com/in/suman-dangol-9310b6306/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://sumandongol.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8BC34A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-<!-- Footer -->
+<!-- Footer: green valley into sky blue -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A00,100:0D1117&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8BC34A,100:29B6F6&height=100&section=footer" width="100%" />
 </p>
