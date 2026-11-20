@@ -57,6 +57,23 @@ const suman = {
   <img src="https://img.shields.io/badge/Figma-5D6D7E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
+## Streak & Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Suman2060&background=90%2C1F5F8B%2C2E9CE6&border=8BC34A&stroke=FFFFFF33&ring=FFD54F&fire=FF7043&currStreakNum=FFFFFF&currStreakLabel=FFD54F&sideNums=FFFFFF&sideLabels=E1F5FE&dates=B3E5FC&card_width=495&card_height=195" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Suman2060&show_icons=true&count_private=true&bg_color=90,1F5F8B,2E9CE6&title_color=FFD54F&icon_color=8BC34A&text_color=FFFFFF&border_color=8BC34A" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman2060&layout=compact&bg_color=90,1F5F8B,2E9CE6&title_color=FFD54F&text_color=FFFFFF&border_color=8BC34A" alt="Top languages" />
+</p>
+
+## Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suman2060/Suman2060/output/mtb-bike.svg" width="100%" alt="Mountain bike riding over my contribution graph" />
+</p>
+
 ## Journey
 
 <p align="center">
