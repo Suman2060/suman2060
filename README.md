@@ -33,10 +33,17 @@ const suman = {
   <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nodejs,express,python,django,postgres,mysql,mongodb,prisma,git,github,vscode,figma&theme=dark&perline=8" />
 </p>
 
-## 🐍 Contribution Snake
+## 📊 Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Suman2060/Suman2060/output/github-snake-dark.svg" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Suman2060&show_icons=true&bg_color=0D1117&title_color=29B6F6&icon_color=8BC34A&text_color=C9D1D9&border_color=30363D&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Suman2060&background=0D1117&border=30363D&ring=8BC34A&fire=29B6F6&currStreakLabel=29B6F6&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B949E" />
+</p>
+
+## 📈 Activity
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suman2060&bg_color=0D1117&color=29B6F6&line=8BC34A&point=FFFFFF&area=true&area_color=8BC34A&hide_border=true" />
 </p>
 
 ## 🤝 Connect
