@@ -33,17 +33,22 @@ const suman = {
   <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nodejs,express,python,django,postgres,mysql,mongodb,prisma,git,github,vscode,figma&theme=dark&perline=8" />
 </p>
 
-## 📊 Stats
+## 🔥 Streak & Stats
 
+<!-- Animated streak: the ring draws itself and the fire flickers -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Suman2060&show_icons=true&bg_color=0D1117&title_color=29B6F6&icon_color=8BC34A&text_color=C9D1D9&border_color=30363D&count_private=true" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=Suman2060&background=0D1117&border=30363D&ring=8BC34A&fire=29B6F6&currStreakLabel=29B6F6&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com/?user=Suman2060&theme=default&background=90%2C1F5F8B%2C2E9CE6&border=8BC34A&stroke=FFFFFF33&ring=FFD54F&fire=FF7043&currStreakNum=FFFFFF&currStreakLabel=FFD54F&sideNums=FFFFFF&sideLabels=E1F5FE&dates=B3E5FC&card_width=495&card_height=195" alt="GitHub streak" />
 </p>
 
-## 📈 Activity
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Suman2060&show_icons=true&count_private=true&bg_color=90,1F5F8B,2E9CE6&title_color=FFD54F&icon_color=8BC34A&text_color=FFFFFF&border_color=8BC34A" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman2060&layout=compact&bg_color=90,1F5F8B,2E9CE6&title_color=FFD54F&text_color=FFFFFF&border_color=8BC34A" alt="Top languages" />
+</p>
+
+## 🧗 My Journey
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suman2060&bg_color=0D1117&color=29B6F6&line=8BC34A&point=FFFFFF&area=true&area_color=8BC34A&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Suman2060/Suman2060/main/climb.svg" width="100%" alt="Animated climb from JavaScript to Full Stack" />
 </p>
 
 ## 🤝 Connect
